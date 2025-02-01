@@ -10,6 +10,8 @@ This repository contains a MATLAB function to detect unusual artifacts affecting
 - **Customizable Threshold:** Default threshold is 5, but can be adjusted as needed.
 - **Output:** Saves a figure file and returns a detailed table summarizing the results.
 
+![Generated Output](Example_ExcessiveICAComponentAnalysis.png)
+
 ## Usage
 
 1. **Prerequisites:**
