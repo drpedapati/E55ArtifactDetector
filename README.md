@@ -1,5 +1,3 @@
-### GitHub README
-
 # E55 Artifact Detector
 
 This repository contains a MATLAB function to detect unusual artifacts affecting electrode **E55** in EEG data acquired from EGI nets. The function leverages ICA weights to perform a binary classification, flagging files that display excessive activity at **E55**. It assumes that an ICA decomposition has been performed on your EEG data (e.g., via EEGLAB).
