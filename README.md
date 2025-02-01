@@ -9,9 +9,9 @@ This repository contains a MATLAB function to detect unusual artifacts affecting
 - **Visualization:** Generates a figure with a bar plot of ICA weights and topographical maps for both the excessive component and the Gaussian template.
 - **Customizable Threshold:** Default threshold is 5, but can be adjusted as needed.
 - **Output:** Saves a figure file and returns a detailed table summarizing the results.
-
-<img src="Example_ExcessiveICAComponentAnalysis.png" width="50%">
-
+<div style="text-align: center;">
+<img src="Example_ExcessiveICAComponentAnalysis.png" width="75%">
+</div>
 ## Usage
 
 1. **Prerequisites:**
